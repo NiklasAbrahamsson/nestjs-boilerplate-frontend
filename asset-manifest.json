@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nestjs-boilerplate-frontend/static/css/main.de08eb5e.chunk.css",
+    "main.js": "/nestjs-boilerplate-frontend/static/js/main.6103f2e6.chunk.js",
+    "main.js.map": "/nestjs-boilerplate-frontend/static/js/main.6103f2e6.chunk.js.map",
+    "runtime-main.js": "/nestjs-boilerplate-frontend/static/js/runtime-main.91f5e15b.js",
+    "runtime-main.js.map": "/nestjs-boilerplate-frontend/static/js/runtime-main.91f5e15b.js.map",
+    "static/js/2.ac39718f.chunk.js": "/nestjs-boilerplate-frontend/static/js/2.ac39718f.chunk.js",
+    "static/js/2.ac39718f.chunk.js.map": "/nestjs-boilerplate-frontend/static/js/2.ac39718f.chunk.js.map",
+    "static/js/3.daa4540a.chunk.js": "/nestjs-boilerplate-frontend/static/js/3.daa4540a.chunk.js",
+    "static/js/3.daa4540a.chunk.js.map": "/nestjs-boilerplate-frontend/static/js/3.daa4540a.chunk.js.map",
+    "index.html": "/nestjs-boilerplate-frontend/index.html",
+    "static/css/main.de08eb5e.chunk.css.map": "/nestjs-boilerplate-frontend/static/css/main.de08eb5e.chunk.css.map",
+    "static/js/2.ac39718f.chunk.js.LICENSE.txt": "/nestjs-boilerplate-frontend/static/js/2.ac39718f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91f5e15b.js",
+    "static/js/2.ac39718f.chunk.js",
+    "static/css/main.de08eb5e.chunk.css",
+    "static/js/main.6103f2e6.chunk.js"
+  ]
+}
